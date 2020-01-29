@@ -1,3 +1,6 @@
+---
+title: Documents de cours
+---
 
 ### Régression logistique et scoring
 
