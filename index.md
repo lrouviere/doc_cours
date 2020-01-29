@@ -2,9 +2,9 @@
 title: Documents de cours
 ---
 
-### Régression logistique et scoring
+## Régression logistique et scoring
 
-Ce cours a été effectué en M1 au Master de Mathématiques Appliqués, Statistiques ainsi qu'au 2A de l'Ensai.
+Ce cours a été effectué en M1 au [Master de Mathématiques Appliqués, Statistiques](https://www.sites.univ-rennes2.fr/master-mas/) ainsi qu'aux élèves 2A de l'Ensai.
 
 - [slides](slides_logistique.pdf)
 - [poly](poly_logistique.pdf)
