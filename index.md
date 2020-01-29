@@ -1,5 +1,5 @@
 
-### Documents de cours
+### Régression logistique et scoring
 
 - [slides](pres_R.pdf)
 - [slides au format rapport](pres_R_article1.pdf)
