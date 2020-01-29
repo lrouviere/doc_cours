@@ -1,8 +1,15 @@
 
 ### Régression logistique et scoring
 
-- [slides](pres_R.pdf)
-- [slides au format rapport](pres_R_article1.pdf)
+- [slides](slides_logistique.pdf)
+- [poly](poly_logistique.pdf)
+
+
+### Statistique inférentielle
+
+- [slides](slides_stat_inf.pdf)
+- [td](td_stat_inf.pdf)
+
 
 ---
 
