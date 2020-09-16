@@ -15,6 +15,7 @@ Cours  effectué aux étudiants du M1 du [Master de Mathématiques Appliqués, S
 Cours actuellement fait aux étudiants de [L3 MIASHS de Rennes](https://www.sites.univ-rennes2.fr/licence-miashs/).
 
 - [slides](slides_stat_inf.pdf)
+- [slides (version imprimable)](slides_stat_inf_imp.pdf)
 - [td](td_stat_inf.pdf)
 
 ## Statistique pour l'ingénieur
