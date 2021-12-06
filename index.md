@@ -17,7 +17,7 @@ Cours actuellement fait aux étudiants de [L3 MIASHS de Rennes](https://www.site
 - [slides](slides_stat_inf.pdf)
 - [slides (version imprimable)](slides_stat_inf_imp.pdf)
 - [td](td_stat_inf.pdf)
-- [Exemple de QCM](QCM-stat-inf.pdf)
+- [Exemple de QCM](QCM-stat-inf.pdf), [sujet 2017](stat_inf_dec2017.pdf), [sujet 2020](stat_inf_dec2020.pdf)
 
 ## Statistique pour l'ingénieur
 
